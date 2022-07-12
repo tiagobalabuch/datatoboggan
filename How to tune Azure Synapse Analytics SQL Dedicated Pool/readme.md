@@ -1,6 +1,6 @@
 # How to tune Azure Synapse Analytics SQL Dedicated Pool performance and enable its full potential
 
-Welcome to our repo and thank you for attending our presentation!
+Welcome to our repo and thank you for attending our presentation in **[Data Toboggan](https://www.datatoboggan.co.uk/)**!
 
 During our session we've shown you a report that was used to identify issues:
 
